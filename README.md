@@ -5,7 +5,7 @@
 - Axiom
 - Turning angle
 - Evolution
-- Rules In Format In=>Out,Seperate Rules With Commas
+- Rules In Format - In=>Out -,Seperate Rules With Commas
 - Svg export Yes/No
 
 #### Required Python Modules
