@@ -7,7 +7,8 @@
 - Rules In Format In=>Out,Seperate Rules With Commas
 - Svg export Yes/No
 
-##### turtle window will open up for drawing, also in directory where main.py is located there will be created svg file if chosen so
+#### no additional packages are required to run. run with Python 3.x
+#### after running turtle window will open up for drawing, also in directory where main.py is located there will be created svg file if chosen so
 
 ------------
 ![](https://github.com/GN-c/turtle-L-systems/blob/main/bg.png?raw=true)
