@@ -1,4 +1,3 @@
-from __future__ import print_function, unicode_literals
 from PyInquirer import prompt
 import turtle
 from string import Template
