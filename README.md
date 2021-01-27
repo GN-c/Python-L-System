@@ -37,4 +37,3 @@
 ------------
 
 ##### Originaly made for university presentation
-##### &copy; GN
